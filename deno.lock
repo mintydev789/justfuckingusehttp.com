@@ -1,0 +1,17 @@
+{
+  "version": "5",
+  "specifiers": {
+    "npm:figlet@^1.8.1": "1.8.1"
+  },
+  "npm": {
+    "figlet@1.8.1": {
+      "integrity": "sha512-kEC3Sme+YvA8Hkibv0NR1oClGcWia0VB2fC1SlMy027cwe795Xx40Xiv/nw/iFAwQLupymWh+uhAAErn/7hwPg==",
+      "bin": true
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:figlet@^1.8.1"
+    ]
+  }
+}
