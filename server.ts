@@ -44,6 +44,6 @@ Website: denimintsaev.com
 Source code: https://github.com/this-chord/justfuckingusehttp.com
 `;
 
-Deno.serve((_req) => {
+Deno.serve({ port: 80 }, (_req) => {
   return new Response(contents);
 });
