@@ -44,6 +44,9 @@ Mastodon: mastodon.social/@this_chord
 Source code: https://github.com/this-chord/justfuckingusehttp.com
 `;
 
-Deno.serve((_req) => {
-  return new Response(contents);
-});
+Deno.serve(
+  { port: Deno.env.get("ENVIRONMENT") === "production" ? 80 : 8000 },
+  (_req) => {
+    return new Response(contents);
+  },
+);

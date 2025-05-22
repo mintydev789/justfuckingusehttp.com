@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --watch --allow-net --allow-read server.ts"
+    "dev": "deno run --watch --allow-net --allow-env=ENVIRONMENT --allow-read server.ts"
   },
   "imports": {
     "figlet": "npm:figlet@^1.8.1"
