@@ -18,7 +18,7 @@ Alright, listen up, asshole! You know what's more foolproof than your hippie HTM
 
 Let me tell you of a wonderful thing called:
 
-${figlet.textSync(" ASCII", { font: "3D-ASCII" })}
+${figlet.textSync("ASCII ART", { font: "3D-ASCII" })}
 Might be a bit old-fashioned even for you, but this is what we call 𝔞 𝔢 𝔰 𝔱 𝔥 𝔢 𝔱 𝔦 𝔠. That's right, we also have fancy Unicode characters, you sorry-ass bitch. Want italics? 𝑐ℎ𝑒𝑐𝑘. Bold? 𝐜𝐡𝐞𝐜𝐤. Underline? m͟o͟t͟h͟e͟r͟f͟u͟c͟k͟i͟n͟g͟ ͟c͟h͟e͟c͟k͟.
 
 "But muh interactivity!"
@@ -27,7 +27,7 @@ Who the fuck asked for interactivity? You think a user wants to see your shitty 
 
 ${figlet.textSync("Why HTTP?", { font: "Georgia11" })}
 
-Because it's fucking universal, you bellend! And not like your pussy-ass HTML. For Christ's sake, how much do you want to overbloat the fucking internet? At the rate they're adding new useless features you'll soon need a 5090 just to run fucking Chrome. If your shitty page isn't accessible with Lynx, why the fuck should anyone even bother?
+Because it's fucking universal, you bellend! And not like your pussy-ass HTML. For Christ's sake, how much do you want to overbloat the fucking internet? At the rate they're adding new useless features you'll soon need a 5090 just to run fucking Chrome. If your shitty page isn't accessible with Lynx Browser, why the fuck should anyone even bother?
 
 And how many times are you gonna stumble into a W3C feature that's not supported even in the big browsers, before you realize it's a fucking waste of time? That's right, I see that you're trying to use those month/week select inputs, even though they're more useless than the is-even package when you load your page with Firefox (although how much of a miserable fuck do you have to be to use Firefox?)
 
