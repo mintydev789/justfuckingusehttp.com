@@ -47,7 +47,7 @@ Parody of justfuckingusehtml.com (no hate)
 Made by Deni Mintsaev (a miserable fuck Firefox user)
 Website: denimintsaev.com
 Mastodon: mastodon.social/@this_chord
-Source code: https://github.com/this-chord/justfuckingusehttp.com
+Source code: https://github.com/mintydev789/justfuckingusehttp.com
 `;
 
 Deno.serve(
