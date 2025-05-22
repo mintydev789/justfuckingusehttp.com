@@ -10,7 +10,7 @@ const contents = `================================
 ===  JUST FUCKING USE HTTP!  ===
 ================================
 
-[for a proper experience use \`curl https://justfuckingusehttp.com\`]
+[for a proper experience use \`curl https://justfuckingusehttp.com\` and get a proper Unicode font]
 
 Alright, listen up, asshole! You know what's more foolproof than your hippie HTML bullshit? That's right, pure text over HTTP! While you're out here arguing with the frontend fanatics over the "right" way to make a webpage, you never even stopped for a goddamn second to think that you don't need any of that shit. Who the fuck cares about a *button* when all you need is text? Ever read a book, dipshit?
 
