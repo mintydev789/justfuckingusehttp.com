@@ -36,7 +36,7 @@ ${figlet.textSync("In conclusion", { font: "ANSI Shadow" })}
 
 𝐉𝐮𝐬𝐭 𝐟𝐮𝐜𝐤𝐢𝐧𝐠 𝐮𝐬𝐞 𝐇𝐓𝐓𝐏!
 
-Subscribe to my OnlyFans if you want to see the next installment: JUST FUCKING USE GOPHER! (not that Golang guy, this one: https://en.wikipedia.org/wiki/Gopher_(protocol), they are different). And yes, of course this site only works through HTTPS. You wouldn't fuck without a condom on a first date either, would you?
+Subscribe to my OnlyFans if you want to see the next installment: JUST FUCKING USE GOPHER! (not that Golang guy, this one: https://en.wikipedia.org/wiki/Gopher_(protocol), know the difference, silly). And yes, of course this site only works through HTTPS. You wouldn't fuck without a condom on a first date either, would you?
 
 And if you're reading this through a fucking browser and not a TTY as Richard Stallman intended (PBUH), you should just quit your job now and let the latest garbage AI do it better, you worthless piece of shit.
 
