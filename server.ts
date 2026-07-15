@@ -51,9 +51,4 @@ Bluesky: bsky.app/profile/mintydev.bsky.social
 Source code: https://github.com/mintydev789/justfuckingusehttp.com
 `;
 
-Deno.serve(
-  { port: environment === "production" ? 80 : 8000 },
-  (_req) => {
-    return new Response(contents);
-  },
-);
+Deno.serve(() => new Response(contents));
